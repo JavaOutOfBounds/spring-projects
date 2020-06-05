@@ -8,8 +8,8 @@
 
 
 #MySql installation
-MySQL need to be installed and up and running
-No need to create database as this property take care of it -createDatabaseIfNotExist=true
-Tables are created by hibernate through configuration by enabling the property -spring.jpa.hibernate.ddl-auto=update
+#MySQL need to be installed and up and running
+#No need to create database as this property take care of it -createDatabaseIfNotExist=true
+#Tables are created by hibernate through configuration by enabling the property -spring.jpa.hibernate.ddl-auto=update
 
 
